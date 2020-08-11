@@ -37,7 +37,7 @@ class _NavScreenState extends State<NavScreen> {
           children: _screens,
         ),
         bottomNavigationBar: Padding(
-          padding: const EdgeInsets.only(top: 12.0, bottom: 25.0),
+          padding: const EdgeInsets.only(top: 12.0, bottom: 15.0),
           child: CustomTabBar(
             icons: _icons,
             selectedIndex: _selectedIndex,

@@ -1,4 +1,4 @@
-package com.example.flutter_facebook_responsive_ui
+package com.mallenkb.clonebook
 
 import io.flutter.embedding.android.FlutterActivity
 
