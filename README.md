@@ -1,5 +1,7 @@
 # Flutter Facebook Clone: 'Clonebook'.
 
-Twitter: @mallenkb
-[Dribbble 🖌️](https://dribbble.com/mallenkb)
+[Twitter 🐦](https://twitter.com/mallenkb)
+
+[Dribbble 🎨](https://dribbble.com/mallenkb)
+
 [Github 👨🏾‍💻](https://github.com/mallenkb)
