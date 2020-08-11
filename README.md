@@ -8,4 +8,4 @@
 
 # Clonebook Screenshot
  
-![alt text](lib/screenshot/clonebook.png "Clonebook Screenshot")
+![Clonebook](lib/screenshot/clonebook.png "Clonebook Screenshot")
