@@ -1,7 +1,7 @@
 import 'package:flutter_facebook_responsive_ui/models/models.dart';
 
 final User currentUser = User(
-  name: 'Marcus Ng',
+  name: 'Marques Brownlee',
   imageUrl:
       'https://images.unsplash.com/photo-1529758146491-1e11fd721f77?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2804&q=80',
 );
