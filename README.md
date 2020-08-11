@@ -6,6 +6,6 @@
 
 [Github 👨🏾‍💻](https://github.com/mallenkb)
 
-# Screenshot
-Inline-style: 
+# Clonebook Screenshot
+ 
 ![alt text](lib/screenshot/clonebook.png "Clonebook Screenshot")
