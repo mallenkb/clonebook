@@ -1,4 +1,4 @@
-# Flutter Facebook Clone Called: 'Clonebook' learnt how to build with the help of a tutorial!
+# Flutter Facebook Clone Called: 'Clonebook'.
 
 Twitter @mallenkb
 Dribbble
