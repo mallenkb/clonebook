@@ -1,4 +1,4 @@
-# Flutter Facebook Clone: 'Clonebook'.
+# Flutter Facebook Clone UI: 'Clonebook'.
 
 [Twitter 🐦](https://twitter.com/mallenkb)
 
